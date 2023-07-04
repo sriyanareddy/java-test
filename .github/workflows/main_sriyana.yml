@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'sriyana'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6C3CF59C7FC44CB95AEBD23E8E5075B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A41F9136CBB40EFBB9EC272176CF757 }}
           package: '*.jar'
